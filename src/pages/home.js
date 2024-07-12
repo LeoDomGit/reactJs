@@ -86,6 +86,8 @@ const Myhome = () => {
                                 </div>
                                 <div class="card-body">
                                     <h5>{product.name}</h5>
+                                    <h5>{product.price}</h5>
+
                                 </div>
                             </div>
                             
@@ -103,6 +105,7 @@ const Myhome = () => {
                                 </div>
                                 <div class="card-body">
                                     <h5>{product.name}</h5>
+                                    <h5>{product.price}</h5>
                                 </div>
                             </div>
                             
